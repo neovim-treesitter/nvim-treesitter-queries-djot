@@ -1,9 +1,9 @@
 {
-  "location": null,
   "generate_from_json": null,
-  "generate": null,
-  "lang": "djot",
   "url": "https://github.com/treeman/tree-sitter-djot",
   "semver": false,
-  "parser_version": "74fac1f53c6d52aeac104b6874e5506be6d0cfe6"
+  "parser_version": "74fac1f53c6d52aeac104b6874e5506be6d0cfe6",
+  "location": null,
+  "lang": "djot",
+  "generate": null
 }
